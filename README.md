@@ -3,4 +3,4 @@
 Seja bem-vinde ao Trabalho de Conclusão de Curso do nosso grupo.
 Ficamos muito felizes com a sua visita!
 
-Clique <a href="https://chat.openai.com">aqui</a> para acessar nossa aplicação.
+Clique <a href="https://www.instagram.com/gabriel.arrvda/">aqui</a> para acessar nossa aplicação.
